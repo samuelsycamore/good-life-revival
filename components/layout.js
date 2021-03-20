@@ -20,6 +20,7 @@ export default function Layout({ children, home }) {
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
       <NavBar />
+      hello
       <div className="container max-w-2xl  
     flex flex-col justify-center items-center 
     p-4 mx-auto 
